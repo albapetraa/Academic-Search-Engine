@@ -1,0 +1,15 @@
+com\example\AkademikArama\repository\ArastirmaciRepo.class
+com\example\AkademikArama\controller\AdminHomeController.class
+com\example\AkademikArama\MvcConfiguration.class
+com\example\AkademikArama\AkademikAramaApplication.class
+com\example\AkademikArama\model\Tur.class
+com\example\AkademikArama\model\User.class
+com\example\AkademikArama\model\Yayin.class
+com\example\AkademikArama\repository\YayinRepo.class
+com\example\AkademikArama\controller\AdminLoginController.class
+com\example\AkademikArama\controller\IndexController.class
+com\example\AkademikArama\model\Arastirmaci.class
+com\example\AkademikArama\repository\UserRepo.class
+com\example\AkademikArama\StaticResourceConfiguration.class
+com\example\AkademikArama\repository\TurRepo.class
+com\example\AkademikArama\controller\WelcomeController.class
